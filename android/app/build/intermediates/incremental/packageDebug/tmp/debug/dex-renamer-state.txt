@@ -1,0 +1,4 @@
+#Mon May 20 16:53:22 CEST 2019
+base.0=D\:\\QuizApp\\silicon_valley_quiz\\Quiz\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
